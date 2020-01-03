@@ -4,7 +4,7 @@ Ability to search github using api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## https://github.com/bushblade/RFTB2019_GitHub_Finder
+## https://githubapisearch.netlify.com/
 
 ## Available Scripts
 
