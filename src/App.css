@@ -19,7 +19,10 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
+  /* background-image: url('https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: rgb(94, 187, 237);
   color: #333;
 }
 
@@ -113,6 +116,7 @@ img {
 .card {
   padding: 1rem;
   border: #ccc 1px dotted;
+  background-color: rgba(247, 245, 245, 0.605);
   margin: 0.7rem 0;
 }
 
